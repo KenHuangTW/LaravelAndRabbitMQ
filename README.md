@@ -96,25 +96,13 @@ QUEUE_CONNECTION=rabbitmq
 
 # 參考資料
 [Laravel Queues](https://laravel.com/docs/10.x/queues)
+
 [laravel queues - how sync driver works?](https://stackoverflow.com/questions/43467680/laravel-queues-how-sync-driver-works-does-it-executes-in-a-separate-process-t)
+
 [RabbitMQ](https://en.wikipedia.org/wiki/RabbitMQ)
+
 [RabbitMQ 基本介紹、安裝教學](https://kucw.github.io/blog/2020/11/rabbitmq/)
+
 [laravel-queue-rabbitmq](https://github.com/vyuldashev/laravel-queue-rabbitmq)
+
 [RabbitMQ 與 Redis 之間有何差異？](https://aws.amazon.com/tw/compare/the-difference-between-rabbitmq-and-redis/)
-
-
-</style>
-<hr class="style-one" />
-
-如果有錯誤的部份，歡迎指正，謝謝。
-如果你喜歡這篇文章，請幫我拍手
-只需要註冊會員就可以囉，完全不用花費任何一毛錢就可以用來鼓裡創作者囉
-
-
-<div>
-    <script type="text/javascript">
-    document.write(
-        "<iframe scrolling='no' frameborder='0' sandbox='allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-storage-access-by-user-activation' style='height: 212px; width: 100%;' src='https://button.like.co/in/embed/wtf81905/button?referrer=" +
-        encodeURIComponent(location.href.split("?")[0].split("#")[0]) + "'></iframe>");
-    </script>
-</div>
